@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 简体中文
 
-将 Typora **当前打开的 Markdown** 连同其引用的**本地附件**一键导出到任意文件夹，导出后的笔记可独立分发——发给他人、上传博客 / 云端、做测试，不再依赖原笔记库。适配 typora-community-plugin 生态。
+将 Typora **当前打开的 Markdown** 连同其引用的**本地附件**一键导出到任意文件夹，通常用于从ob库里把笔记附件从集中附件夹里提取出来，导出后的笔记可独立分发——发给他人、上传博客 / 云端、做测试，不再依赖原笔记库。适配 typora-community-plugin 生态。
 
 灵感来自 [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)（它受 Obsidian 限制只能导出到库内，本插件无此限制），并兼容 Obsidian 的 `![[wikilink]]` 嵌入语法。
 

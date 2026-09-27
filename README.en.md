@@ -1,6 +1,6 @@
 # Markdown Export for typora-community-plugin
 English | [简体中文](README.md)
-Export the **currently open Markdown** in Typora together with its **local attachments** to any folder. The exported note is fully self-contained — send it to others, upload it to a blog / cloud drive, or use it for testing, with no dependency on the original vault. Built for the typora-community-plugin ecosystem.
+Export the **currently open Markdown** in Typora together with its **local attachments** to any folder. Usually used to extract note attachments from the central attachment folder in the ob library. The exported note is fully self-contained — send it to others, upload it to a blog / cloud drive, or use it for testing, with no dependency on the original vault. Built for the typora-community-plugin ecosystem.
 Inspired by [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin) (it can only export inside the Obsidian vault — this plugin has no such limitation) and compatible with Obsidian `![[wikilink]]` embeds.
 ## Features
 - **One-click export**: the open md + every local attachment it references, copied to the chosen directory (the source vault is never touched: read-only + copy, never move or delete)
