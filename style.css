@@ -1,0 +1,8 @@
+/*
+ * Markdown Export — plugin styles
+ *
+ * This plugin adds no UI of its own: the export is triggered from the
+ * command palette (F1) or a user-assigned keyboard shortcut, and all
+ * feedback goes through the shared Notice component. Kept empty on
+ * purpose.
+ */

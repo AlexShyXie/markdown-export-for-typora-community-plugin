@@ -1,0 +1,12 @@
+{
+  "id": "AlexShyXie.markdown-export",
+  "name": "Markdown Export",
+  "description": "Export the current markdown file with its local attachments (images etc.) to any folder: collects referenced files into a configurable sub-folder (images / vx_images / assets ...) and rewrites the links. Understands ![](uri), <img src> and ![[wikilink]].",
+  "author": "AlexShyXie",
+  "authorUrl": "https://github.com/AlexShyXie",
+  "repo": "AlexShyXie/markdown-export-for-typora-community-plugin",
+  "version": "1.0.1",
+  "minAppVersion": "1.5.0",
+  "minCoreVersion": "2.8.2",
+  "platforms": ["win32", "linux", "darwin"]
+}
